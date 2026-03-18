@@ -71,7 +71,7 @@ header span {
 .about-section .wrapper {
     display: flex;
     flex-direction: column;
-    gap: 60px;
+    gap: 20px;
     /* 📍 Свойствa flexbox для отступов между элементами select, .info-wrapper и .skills-wrapper  */
 }
 
